@@ -77,7 +77,7 @@
   display: grid;
   place-items: center;
   border: 1px solid #333;
-  margin: -84px 75px 0px 105px; 
+  margin: -80px 75px 0px 105px; 
   padding: 5px;
   border-radius: 8px;
   background: #333;
@@ -128,7 +128,7 @@
   text-align: center;
   font-size: 2.75vw;
   margin: 3px;
-  height: 8.2vh;
+  height: 8vh;
   width: 12vw;
   padding-top: 8px;
   border-radius: 5px;
